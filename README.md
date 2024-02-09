@@ -20,7 +20,7 @@ I am a Computer engineer grad student <img src="https://media.giphy.com/media/WU
 
 - :telescope: I’m focused on Cloud Computing, CyberSecurity and Software Development.
 
-- :zap: In my free time, I practice my German and French, Swim.
+- :zap: In my free time, I practice my German and French and Swim.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
